@@ -1,4 +1,4 @@
-![logo](https://github.com/nidhi-nupur/nidhi-nupur/blob/main/git.png)
+![logo](https://github.com/nidhi-nupur/nidhi-nupur/blob/main/Git.png)
 <h1 align="center">Hi! I'm Nidhi Nupur</h1>
 <h3 align="center">A passionate Learner from India.</h3>
 
